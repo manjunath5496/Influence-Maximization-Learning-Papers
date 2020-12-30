@@ -11,7 +11,7 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Influence-Maximization-Learning-Papers/blob/master/in(2).pdf" style="text-decoration:none;">Combinatorial Multi-Armed Bandit and Its Extension to Probabilistically Triggered Arms</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Influence-Maximization-Learning-Papers/blob/master/in(3).pdf" style="text-decoration:none;">Scalable In
-uence Maximization for Multiple Products in Continuous-Time Diusion Networks</a></li>
+uence Maximization for Multiple Products in Continuous-Time Diffusion Networks</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Influence-Maximization-Learning-Papers/blob/master/in(4).pdf" style="text-decoration:none;">Maximizing Time-decaying Influence in Social Networks</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Influence-Maximization-Learning-Papers/blob/master/in(5).pdf" style="text-decoration:none;">Hierarchical Diffusion Attention Network</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Influence-Maximization-Learning-Papers/blob/master/in(6).pdf" style="text-decoration:none;">Cascade Dynamics Modeling with Attention-based Recurrent Neural Network</a></li>
@@ -161,7 +161,7 @@ uence Maximization in Social Networks with Genetic Algorithms</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Influence-Maximization-Learning-Papers/blob/master/in(83).pdf" style="text-decoration:none;">Online Influence Maximization with Local Observations</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Influence-Maximization-Learning-Papers/blob/master/in(84).pdf" style="text-decoration:none;">Microblogging content propagation modeling using topic-specific behavioral factors</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Influence-Maximization-Learning-Papers/blob/master/in(85).pdf" style="text-decoration:none;">DeepInfer: Diusion Network Inference through Representation Learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Influence-Maximization-Learning-Papers/blob/master/in(85).pdf" style="text-decoration:none;">DeepInfer: Diffusion Network Inference through Representation Learning</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Influence-Maximization-Learning-Papers/blob/master/in(86).pdf" style="text-decoration:none;">Scalable Influence Maximization for Prevalent Viral Marketing in Large-Scale Social Networks</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Influence-Maximization-Learning-Papers/blob/master/in(87).pdf" style="text-decoration:none;">Stochastic Online Greedy Learning with Semi-bandit Feedbacks</a></li>
